@@ -9,3 +9,4 @@ dauup.com, 34141, RESELLER #Edge226
 thebrave.io, 1234746, RESELLER, c25b2154543746ac #thebrave
 toponad.com, 16719c20554a4f, RESELLER, 1d49fe424a1a456d #Topon
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+facebook.com, 1093981171539943, DIRECT, c3e20eee3f780d68
