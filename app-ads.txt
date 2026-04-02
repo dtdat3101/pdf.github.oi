@@ -429,3 +429,4 @@ balloonlabs.ai, 9173515035, RESELLER
 thunder-monetize.com, 3692155372, RESELLER
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
+google.com, pub-7526285253397422, DIRECT, f08c47fec0942fa0
